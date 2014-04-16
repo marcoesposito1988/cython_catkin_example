@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+    <name>cython_catkin_example</name>
+  <version>0.0.1</version>
+  <description>Example of Cython and catkin integration</description>
+
+  <maintainer email="marco_esposito@mytum.de">Marco Esposito</maintainer>
+
+  <license>GPLv3</license>
+
+  <author email="marco_esposito@mytum.de">Marco Esposito</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>libpcl-all-dev</build_depend>
+  <build_depend>libpcl-all</build_depend>
+</package>
